@@ -291,7 +291,7 @@ default_loras = get_config_item_or_set_default(
     default_value=[
         [
             True,
-            "None",
+            "main/mymj.safetensors",
             1.0
         ],
         [
