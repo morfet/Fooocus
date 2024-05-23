@@ -296,7 +296,7 @@ default_loras = get_config_item_or_set_default(
         ],
         [
             True,
-            "None",
+            "sdxl_lightning_8step_lora.safetensors",
             1.0
         ],
         [
