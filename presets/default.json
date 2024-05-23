@@ -52,12 +52,12 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
-    },
-     }
-    "embeddings_downloads": {},
+        
+        "embeddings_downloads": {},
     "lora_downloads": {
         "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors"
     },
+     
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
